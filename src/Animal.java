@@ -1,4 +1,4 @@
-public class Animal {
+abstract class Animal {
     int a;//габарит
 //    public Animal(){
 //        System.out.println("я животное");
